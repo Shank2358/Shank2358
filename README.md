@@ -17,8 +17,8 @@
 
 <!-- GitHub Profile Trophy & GitHub Streak Stats -->
 <div align="center">
- <img height="230px" src="https://github-profile-trophy.vercel.app/?username=Shank2358&theme=algolia&row=2&column=3&no-frame=true" />
- <img height="230px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shank2358&theme=algolia" />
+ <img height="200px" src="https://github-profile-trophy.vercel.app/?username=Shank2358&theme=algolia&row=2&column=3&no-frame=true" />
+ <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shank2358&theme=algolia" />
 </div>
 
 <!-- GitHub Activity Graph -->
