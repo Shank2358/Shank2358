@@ -11,8 +11,8 @@
  
 <!-- GitHub Readme Stats -->
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Shank2358&theme=algolia&show_icons=trueline_height=21" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shank2358&theme=algolia&layout=compact" />
+  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Shank2358&theme=algolia&show_icons=trueline_height=21" />
+  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shank2358&theme=algolia&layout=compact" />
 </div>
 
 <!-- GitHub Profile Trophy & GitHub Streak Stats -->
