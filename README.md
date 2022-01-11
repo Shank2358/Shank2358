@@ -22,4 +22,4 @@
 </div>
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img height="292px" src="https://activity-graph.herokuapp.com/graph?username=Shank2358&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
+<div align="center"><img height="296px" src="https://activity-graph.herokuapp.com/graph?username=Shank2358&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
