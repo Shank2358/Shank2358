@@ -6,6 +6,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 
+<span id="badgeCont787"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont787&rid=AAA-1767-2021"></script></span>
+
  🌱 I’m currently interested in CUDA  
  📫 How to reach me: zhanchao.h@outlook.com
  
