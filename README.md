@@ -23,3 +23,14 @@
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img height="295px" src="https://activity-graph.herokuapp.com/graph?username=Shank2358&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
+  
+  
+## 求职广告：
+#### 我目前正在找工作，预计将于2023年6月博士毕业，如果您有合适的岗位推荐，烦请通过邮件告知我，我将感激不尽。 
+#### 我的邮箱是：zhanchao.h@outlook.com，我的Web of Science主页是：https://www.webofscience.com/wos/author/record/2162959
+#### 如需更详细的简历，您可以通过邮件或者在Github上联系我，谢谢。
+
+## Job hunting:
+#### I am currently looking for a job. I will graduate with a PhD in June 2023. If you have a suitable job recommendation, please let me know by email, I will be very grateful.  
+#### My email is: zhanchao.h@outlook.com, my Web of Science home page is: https://www.webofscience.com/wos/author/record/2162959  
+#### For more detailed resume, you can contact me by email or on Github. Thank you.
