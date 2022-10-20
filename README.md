@@ -20,9 +20,6 @@
  <img height="208px" src="https://github-profile-trophy.vercel.app/?username=Shank2358&theme=algolia&row=2&column=3&no-frame=true" />
  <img height="208px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shank2358&theme=algolia" />
 </div>
-
-<!-- GitHub Activity Graph -->
-<div align="center"><img height="295px" src="https://activity-graph.herokuapp.com/graph?username=Shank2358&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>
   
   
 ## 求职广告：
